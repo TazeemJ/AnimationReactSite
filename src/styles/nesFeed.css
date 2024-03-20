@@ -1,0 +1,283 @@
+
+/* // News Feed Styling // */
+/* #primary #post-9004111231300846 header.entry-header{
+	margin: 15px 0px 20px 0px;
+}
+#primary #post-9004111231300846  .whats-new-scroll-view {
+    min-height: 106px;
+    display: flex;
+    align-items: center;
+	padding:0px 7px;
+}
+#primary #post-9004111231300846 #whats-new-form .avatar, #whats-new-form-placeholder .avatar{
+    margin-right: 10px;
+    max-width: 58px;
+}
+#primary #post-9004111231300846 .activity-form:not(.focus-in):hover .whats-new-form-header{
+	background:none;
+}
+
+#primary #post-9004111231300846 #whats-new-content{
+	display:flex;
+	align-items:center;
+	margin-left:12px;
+}
+#primary #post-9004111231300846 #whats-new-toolbar{
+padding:12px 24px;
+}
+#primary #post-9004111231300846 #whats-new-toolbar .bb-icon-camera:before {
+    font-size: 28px;
+}
+#primary #post-9004111231300846 .component-navigation li a{
+    padding-bottom:3px;
+	color:#999999;
+	text-decoration:none;
+}
+#primary #post-9004111231300846 .bp-subnavs li.selected a{
+    color:black;
+}
+#primary #post-9004111231300846 #dir-activity-search{
+  height:36px;
+	border:1px solid #D6D9DD;
+	color:#999999;
+	font-size:14px;
+	font-weight:400;
+}
+#primary #post-9004111231300846 .bp-screen-reader-text,#dir-activity-search-submit{
+	color:#999999;
+}
+#primary #post-9004111231300846 #buddypress ul.item-list li img.avatar{
+    max-width: 32px;
+    max-height: 32px;
+}
+#primary #post-9004111231300846 .entry-content div a{
+   color:black;
+	text-decoration:none;
+	font-weight:400;
+}
+#primary #post-9004111231300846 .entry-content p{
+   font-size:14px;
+	color:#646464;
+}
+#primary #post-9004111231300846 span.comment-count::before {
+    font-size: 24px;
+    position: absolute;
+    top: 4px;
+    left: -6px;
+	color:#f1786e;
+}
+#primary #post-9004111231300846 .activity-inner-meta{
+   height:44px;
+}
+#primary #post-9004111231300846 .activity-inner {
+   border-radius:5px;
+}
+#primary #post-9004111231300846 span.comment-count {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+}
+#primary  #post-9004111231300846 .activity-list .activity-item .bp-generic-meta.action .fav:before ,.acomment-reply::before{
+    content: "\ef41";
+    font-size: 24px !important;
+    color: #f1786e;
+}
+#primary  #post-9004111231300846 .generic-button span.like-count{
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+}
+
+#primary  #post-9004111231300846 .bb-icon-f.bb-icon-ellipsis-h{
+    display:none;
+}
+#primary  #post-9004111231300846 .activity-inner .emoji{
+   width:15px;
+}
+#primary  #post-9004111231300846 .bp-suggestions-mention{
+  color:#C4574E !important;
+}
+
+@media (max-width: 434px) {
+	#primary #post-9004111231300846 .whats-new-scroll-view{
+		padding:0px;
+	}
+	#primary #post-9004111231300846 #whats-new-toolbar {
+    padding: 12px 17px;
+}
+}
+@media (max-width: 434px) {
+  #primary.content-area.bs-bp-container {
+    padding: 0px 5px;
+  }
+  .buddypress-wrap .subnav-filters div {
+    margin-top: 5px;
+    margin-bottom: 4px;
+  }
+  ul.activity-list.item-list.bp-list {
+    margin-bottom: 0px;
+  }
+  #buddypress #activity-stream .activity-list .activity-item{
+    margin-bottom: 0px;
+  }
+}
+#primary #post-9004111231300846 .component-navigation li a {
+  padding-bottom: 3px;
+  color: #999 !important;
+  text-decoration: none;
+}
+#primary #post-9004111231300846 .component-navigation li.selected a {
+color:black !important;
+
+} */
+
+
+
+
+
+
+
+
+
+/* // News Feed Styling // */
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy)
+  header.entry-header {
+  margin: 15px 0px 20px 0px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .whats-new-scroll-view {
+  min-height: 106px;
+  display: flex;
+  align-items: center;
+  padding: 0px 7px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #whats-new-form .avatar,
+#whats-new-form-placeholder .avatar {
+  margin-right: 10px;
+  max-width: 58px;
+}
+#primary
+  #post-9004111231300846
+  .activity-form:not(.focus-in):hover
+  .whats-new-form-header {
+  background: none;
+}
+
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #whats-new-content {
+  display: flex;
+  align-items: center;
+  margin-left: 12px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #whats-new-toolbar {
+  padding: 12px 24px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #whats-new-toolbar .bb-icon-camera:before {
+  font-size: 28px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .component-navigation li a {
+  padding-bottom: 3px;
+  color: #999999;
+  text-decoration: none;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .bp-subnavs li.selected a {
+  color: black;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #dir-activity-search {
+  height: 36px;
+  border: 1px solid #d6d9dd;
+  color: #999999;
+  font-size: 14px;
+  font-weight: 400;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .bp-screen-reader-text,
+#dir-activity-search-submit {
+  color: #999999;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #buddypress ul.item-list li img.avatar {
+  max-width: 32px;
+  max-height: 32px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .entry-content div a {
+  color: black;
+  text-decoration: none;
+  font-weight: 400;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .entry-content p {
+  font-size: 14px;
+  color: #646464;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) span.comment-count::before {
+  font-size: 24px;
+  position: absolute;
+  top: 4px;
+  left: -6px;
+  color: #f1786e;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .activity-inner-meta {
+  height: 44px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .activity-inner {
+  border-radius: 5px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) span.comment-count {
+  font-size: 14px;
+  color: #999999;
+  font-weight: 400;
+}
+#primary
+  #post-9004111231300846
+  .activity-list
+  .activity-item
+  .bp-generic-meta.action
+  .fav:before,
+.acomment-reply::before {
+  content: "\ef41";
+  font-size: 24px !important;
+  color: #f1786e;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .generic-button span.like-count {
+  font-size: 14px;
+  color: #999999;
+  font-weight: 400;
+}
+
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .bb-icon-f.bb-icon-ellipsis-h {
+  display: none;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .activity-inner .emoji {
+  width: 15px;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .bp-suggestions-mention {
+  color: #c4574e !important;
+}
+/* //   News Feed style  media */
+@media (max-width: 434px) {
+  #primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .whats-new-scroll-view {
+    padding: 0px;
+  }
+  #primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) #whats-new-toolbar {
+    padding: 12px 17px;
+  }
+}
+@media (max-width: 434px) {
+  #primary.content-area.bs-bp-container {
+    padding: 0px 5px;
+  }
+  .buddypress-wrap .subnav-filters div {
+    margin-top: 5px;
+    margin-bottom: 4px;
+  }
+  ul.activity-list.item-list.bp-list {
+    margin-bottom: 0px;
+  }
+  #buddypress #activity-stream .activity-list .activity-item {
+    margin-bottom: 0px;
+  }
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .component-navigation li a {
+  padding-bottom: 3px;
+  color: #999 !important;
+  text-decoration: none;
+}
+#primary:has(#whats-new-privacy-stage #whats-new-privacy-stage-body #activity-post-form-privacy) .component-navigation li.selected a {
+  color: black !important;
+}

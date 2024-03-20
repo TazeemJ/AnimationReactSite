@@ -1,0 +1,174 @@
+/* ********************* MY ACCOUNT style /**********************
+#primary .bsMyAccount .wc-MyAccount-navigation-heading h5{
+    font-size: 14px;
+    color: #000000;
+    font-weight: 600;
+}
+#primary .woocommerce .woocommerce-MyAccount-navigation ul li a{
+    color: #000000;
+	padding:12px 16px;
+}
+#primary .woocommerce .wc-MyAccount-sub-heading h2{
+    font-weight: 700;
+    color: black;
+	margin-bottom:23px;
+}
+#primary .woocommerce .wc-MyAccount-sub-heading h2 strong{
+    font-weight: 300;
+    color: black; 
+}
+#primary .bsMyAccount .wc-MyAccount-sub-heading p strong{
+	color:black;
+	font-weight:700;
+}
+#primary .woocommerce .woocommerce-MyAccount-content .MyAccount-content--dashboard p{
+    margin-bottom: 23px;
+}
+.woocommerce .woocommerce-MyAccount-navigation ul li.is-active a{
+	color:#C4574E !important;
+}
+.woocommerce .woocommerce-MyAccount-content .wc-MyAccount-inner-content{
+	padding:10px 0px 20px 0px;
+}
+.woocommerce .woocommerce-MyAccount-content .woocommerce-Addresses .woocommerce-Address-title h3{
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+}
+.woocommerce .bsMyAccount--dashboard .woocommerce-Address-title a.edit{
+    font-size: 16px;
+    font-weight: 400;
+}
+.woocommerce .bsMyAccount--dashboard .woocommerce-Address address{
+    line-height: 26px;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+}
+.woocommerce .bsMyAccount--dashboard .woocommerce-Address-title{
+	border-color:#d6d9dd80;
+}
+
+@media (max-width: 433px) {
+.woocommerce .woocommerce-MyAccount-content{
+		padding:16px;
+	}
+	#primary:has(.bsMyAccount){
+	padding-top:11px;
+		padding-left:6px;
+		padding-right:6px;
+		margin-bottom:50px;
+}
+.push-my-account-nav .bb-icon-l.bb-icon-bars::before{
+    color: #C4574E;
+    font-size: 22px;
+}
+.woocommerce .bsMyAccount--dashboard .woocommerce-Address-title {
+	padding:10px 0px 5px;
+	}
+	.woocommerce .bsMyAccount--dashboard .woocommerce-Address address {
+    padding: 7px 0px 0px;
+}
+	.woocommerce .bsMyAccount--dashboard .wc-DashBoard-address-wrapper .woocommerce-Address.col-1{
+		margin-bottom:0px;
+	}
+	.woocommerce .woocommerce-MyAccount-content .wc-MyAccount-inner-content{
+		padding-bottom:0px;
+	}
+	.footer-bottom-right{
+		display:none;
+	}
+}
+/* BuddyBoss Registration page  */
+
+/* #primary .bsMyAccount #customer_login .u-column2.col-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+#primary .bsMyAccount #customer_login .u-column2.col-2 h2{
+   margin-bottom:7px;
+	
+}
+
+#primary .bsMyAccount #customer_login .u-column2.col-2 h2 + a{
+  display:block;
+	
+}
+
+
+#primary .bsMyAccount #customer_login .bb_customer_login h2{
+      font-size: 32px;
+    color: black;
+    font-weight: 700;
+    margin-bottom: 30px 
+	
+}
+
+#primary .bsMyAccount #customer_login .bb_customer_login .required{
+	color:black;
+}
+#primary .bsMyAccount #customer_login .bb_customer_login .woocommerce-LostPassword.lost_password a{
+	font-size: 14px;
+    text-decoration: underline;
+    color: #c4574ed6;
+}
+#primary .bsMyAccount #customer_login .bb_customer_register h2{
+  font-size: 32px;
+    color: black;
+    font-weight: 700;
+    margin-bottom: 10px 
+}
+
+#primary .bsMyAccount #customer_login .bb_customer_register {
+  text-align:center;
+}
+
+#primary .bsMyAccount #customer_login .woocommerce-LostPassword.lost_password{
+margin-top:4px;
+} */
+
+/* form styling  */
+/* 
+@media (max-width:435px){
+	
+    #primary .bsMyAccount #customer_login .bb_customer_login h2 {
+        font-size: 32px;
+        color: #000;
+        font-weight: 700;
+        margin-bottom: 9px;
+        padding-top: 22px;
+    }
+    #primary:has(#post-9004111231300217) .bsMyAccount #customer_login{
+        padding:0px;
+    }
+        #primary:has(#post-9004111231300217) .woocommerce-form-login {
+        margin-top:4px;
+    }
+    #primary:has(#post-9004111231300217) .bsMyAccount {
+        background:none;
+        border:none;
+    }
+        #primary:has(#post-9004111231300217) .bsMyAccount .u-column1 {
+        padding:0px;
+    } 
+        #primary:has(#post-9004111231300217) {
+        padding-top: 0px;
+            margin-bottom:0px;
+    }
+    #primary:has(#post-9004111231300217) .woocommerce-LostPassword.lost_password {
+        flex-direction: row;
+        margin-top: 12px !important;
+        margin-bottom: 16px;
+    }
+        #primary:has(#post-9004111231300217) .woocommerce-Button.button{
+        width:100%;
+    }
+        .woocommerce #customer_login .woocommerce-LostPassword label.woocommerce-form__label, .woocommerce .bb_customer_login .woocommerce-LostPassword label.woocommerce-form__label {
+        margin-right: auto;
+        margin-left: 0;
+        margin-bottom: 0px;
+        mrgin-top: 13px;
+    } */
+/* } */

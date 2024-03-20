@@ -1,0 +1,397 @@
+/* /// ****** 
+ *  Lyric Contest Page***** /////// */
+
+ /* #primary:has(#post-9004111231300926)  {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0px auto;
+  }
+  #primary:has(#post-9004111231300926) .cartflows-primary{
+    background:none;
+   padding:0px;
+  
+  }
+  #primary:has(#post-9004111231300926) .gform_heading h3.gform_title  {
+       font-size: 40px;
+    font-weight: 700;
+    line-height: 37px;
+  margin:40px 0px;
+  }
+  #primary:has(#post-9004111231300926) .gform_legacy_markup_wrapper .gform_description{
+      display:none;
+  }
+  
+  #primary:has(#post-9004111231300926) .gfield_label.gform-field-label{
+    font-size: 14px;
+    color: black;
+    font-weight: 400;
+    line-height: 20px;
+  padding-top:0px;
+  
+  }
+  #primary:has(#post-9004111231300926) .gfield_label.gform-field-label + div select.gfield_select {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #primary:has(#post-9004111231300926) .ginput_container.ginput_container_text input{
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+  background-image:none !important;
+    background: transparent;
+    padding: 8px !important;
+    font-size: 14px !important;
+    font-weight: 400;
+  }
+  #primary:has(#post-9004111231300926) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container input {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #primary:has(#post-9004111231300926)  .ginput_container_textarea textarea {
+  height:100px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+  #primary:has(#post-9004111231300926)  .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container  {
+   border:none;
+  }
+  #primary:has(#post-9004111231300926)  .gform_legacy_markup_wrapper ul li.gfield  {
+  margin-top:9px;
+  padding-right:0px;
+  }
+  
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+  
+  .cartflows-container:has(.cartflows-primary  .gf_browser_chrome .save-and-continue) .gform_legacy_markup_wrapper .gfield_repeater_buttons {
+    padding-top: 40px;
+  }
+  #primary:has(#post-9004111231300926)  .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  }
+  #primary:has(#post-9004111231300926)  .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+       padding-top: 16px;
+      width: fit-content;
+      margin-left: auto;
+      font-size: 14px;
+      color: black;
+      font-weight: 400;
+      border-top: 1px solid #D6D9DD;
+      width: 100%;
+      text-align: right;
+      margin-top: 16px;
+  }
+  #primary:has(#post-9004111231300926) .gfield_repeater_buttons {
+      padding-top: 25px;
+  }
+  #primary:has(#post-9004111231300926) .save-and-continue {
+        display: block;
+      text-align: center;
+      margin-left: auto;
+      margin-top: 16px ;
+  }
+  #primary:has(#post-9004111231300926) .gform_legacy_markup_wrapper {
+           margin-bottom: -15px;
+  }
+  #primary:has(#post-9004111231300926) .save-and-continue-song  {
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  margin-top:16px;
+      margin-left: auto;
+    display: flex;
+  }
+  #primary:has(#post-9004111231300926) .gfield_repeater_cell .gfield--type-checkbox  .gfield_label {
+  margin-top:20px;	
+  margin-bottom:8px;
+  }
+  
+  #primary:has(#post-9004111231300926) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox {
+  margin:0px;
+  }
+  
+  #primary:has(#post-9004111231300926) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox {
+  margin:0px;
+  }
+  
+  #primary:has(#post-9004111231300926) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox .gfield-choice-input {
+    border: 1px solid #999999 !important;
+  margin-top:0px;
+  height:fit-content;
+    color: #999999 !important;
+  }
+  #primary:has(#post-9004111231300926) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox .gfield-choice-input + .gform-field-label{
+   line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 8px;
+  }
+  
+  @media (max-width:435px){
+      #primary:has(#post-9004111231300926) {
+      max-width: 1200px;
+      width: 100%;
+      padding: 0 6px;
+      margin: 0px auto;
+  }
+  #primary:has(#post-9004111231300926) .gform_heading h3.gform_title {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37px;
+    margin:-13px 0px 24px 0px;
+  }
+  #primary:has(#post-9004111231300926) .gform_heading h3.gform_title {
+    font-size: 32px;
+  }
+  #primary:has(#post-9004111231300926) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+   text-align:left;
+  }
+  
+  
+      #primary:has(#post-9004111231300926) .save-and-continue {
+          display: inline;
+      text-align: center;
+     
+      margin-top: 16px;
+      width: 100%;
+  }
+      }
+  
+   */
+
+
+
+
+
+
+
+
+   
+   /* /// ****** 
+ *  Lyric Contest Page***** /////// */
+
+ #primary:has(.save-and-continue)  {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0px auto;
+  }
+  #primary:has(.save-and-continue) .cartflows-primary{
+    background:none;
+   padding:0px;
+  
+  }
+  #primary:has(.save-and-continue) .gform_heading h3.gform_title  {
+       font-size: 40px;
+    font-weight: 700;
+    line-height: 37px;
+  margin:40px 0px;
+  }
+  #primary:has(.save-and-continue) .gform_legacy_markup_wrapper .gform_description{
+      display:none;
+  }
+  
+  #primary:has(.save-and-continue) .gfield_label.gform-field-label{
+    font-size: 14px;
+    color: black;
+    font-weight: 400;
+    line-height: 20px;
+  padding-top:0px;
+    /* margin-bottom: 8px; */
+  }
+  #primary:has(.save-and-continue) .gfield_label.gform-field-label + div select.gfield_select {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #primary:has(.save-and-continue) .ginput_container.ginput_container_text input{
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+  background-image:none !important;
+    background: transparent;
+    padding: 8px !important;
+    font-size: 14px !important;
+    font-weight: 400;
+  }
+  #primary:has(.save-and-continue) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container input {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #primary:has(.save-and-continue)  .ginput_container_textarea textarea {
+  height:100px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+  #primary:has(.save-and-continue)  .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container  {
+   border:none;
+  }
+  #primary:has(.save-and-continue)  .gform_legacy_markup_wrapper ul li.gfield  {
+  margin-top:9px;
+  padding-right:0px;
+  }
+  
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+  
+  .cartflows-container:has(.cartflows-primary  .gf_browser_chrome .save-and-continue) .gform_legacy_markup_wrapper .gfield_repeater_buttons {
+    padding-top: 40px;
+  }
+  #primary:has(.save-and-continue)  .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  }
+  #primary:has(.save-and-continue)  .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+       padding-top: 16px;
+      width: fit-content;
+      margin-left: auto;
+      font-size: 14px;
+      color: black;
+      font-weight: 400;
+      border-top: 1px solid #D6D9DD;
+      width: 100%;
+      text-align: right;
+      margin-top: 16px;
+  }
+  #primary:has(.save-and-continue) .gfield_repeater_buttons {
+      padding-top: 25px;
+  }
+  #primary:has(.save-and-continue) .save-and-continue {
+        display: block;
+      text-align: center;
+      margin-left: auto;
+      margin-top: 16px ;
+  }
+  #primary:has(.save-and-continue) .gform_legacy_markup_wrapper {
+           margin-bottom: -15px;
+  }
+  #primary:has(.save-and-continue) .save-and-continue-song  {
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  margin-top:16px;
+      margin-left: auto;
+    display: flex;
+  }
+  #primary:has(.save-and-continue) .gfield_repeater_cell .gfield--type-checkbox  .gfield_label {
+  margin-top:20px;	
+  margin-bottom:8px;
+  }
+  
+  #primary:has(.save-and-continue) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox {
+  margin:0px;
+  }
+  
+  #primary:has(.save-and-continue) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox {
+  margin:0px;
+  }
+  
+  #primary:has(.save-and-continue) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox .gfield-choice-input {
+    border: 1px solid #999999 !important;
+  margin-top:0px;
+  height:fit-content;
+    color: #999999 !important;
+  }
+  #primary:has(.save-and-continue) .gfield_repeater_cell .gfield--type-checkbox  .ginput_container_checkbox .gfield_checkbox .gfield-choice-input + .gform-field-label{
+   line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 8px;
+  }
+  
+  @media (max-width:435px){
+      #primary:has(.save-and-continue) {
+      max-width: 1200px;
+      width: 100%;
+      padding: 0 6px;
+      margin: 0px auto;
+  }
+  #primary:has(.save-and-continue) .gform_heading h3.gform_title {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37px;
+    margin:-13px 0px 24px 0px;
+  }
+  #primary:has(.save-and-continue) .gform_heading h3.gform_title {
+    font-size: 32px;
+  }
+  #primary:has(.save-and-continue) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+   text-align:left;
+  }
+  
+  
+      #primary:has(.save-and-continue) .save-and-continue {
+          display: inline;
+      text-align: center;
+      /* margin-left: auto; */
+      margin-top: 16px;
+      width: 100%;
+  }
+      }
+  
+  

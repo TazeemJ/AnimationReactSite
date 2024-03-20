@@ -1,0 +1,15 @@
+ install viteSetup : --npm create vite@latest my-project 
+                   : --   cd my-project
+config TwailWing : -- npm install -D tailwindcss postcss autoprefixer
+                  -- npx tailwindcss init -p
+                    Follow TailWind Docs
+RuNDev            -- npm run dev
+
+icon install   -- npm i react-icons
+                --react-icon-library "https://react-icons.github.io/react-icons/"
+
+locomotive-scroll  --- npm install locomotive-scroll@beta
+                   ---   library or site link "https://scroll.locomotive.ca/docs/#/quickstart"
+FramerMotion    -- i framer-motion
+Gsap             -- i gsap
+transition speed measure  -- "https://easings.net/#easeOutQuad"

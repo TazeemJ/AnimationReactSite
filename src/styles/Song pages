@@ -1,0 +1,421 @@
+/* /// ****** 
+ * BuddyBoss Song Contest Page***** /////// */
+
+ /* #primary:has(#post-9004111231300919) {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0px auto;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .gfield_required {
+      color: black !important;
+      margin-left: 3px;
+  }
+   #primary:has(#post-9004111231300919) .cartflows-primary{
+    background:none;
+   padding:0px;
+  }
+   #primary:has(#post-9004111231300919) .gform_heading h3.gform_title  {
+       font-size: 40px;
+    font-weight: 700;
+    line-height: 37px;
+  margin:40px 0px;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .gform_description{
+      display:none;
+  }
+  
+   #primary:has(#post-9004111231300919) .gfield_label.gform-field-label{
+    font-size: 14px;
+    color: black;
+    font-weight: 400;
+    line-height: 20px;
+  padding-top:0px;
+    margin-bottom: 0px;
+  }
+   #primary:has(#post-9004111231300919) .gfield_label.gform-field-label + div  select.gfield_select {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+   #primary:has(#post-9004111231300919) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container input {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+   #primary:has(#post-9004111231300919) .ginput_container_textarea textarea {
+  height:100px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+   #primary:has(#post-9004111231300919) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container  {
+   border:none;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper ul li.gfield  {
+  margin-bottom:24px;
+       margin-top:0px;
+       padding-right:0px;
+  }
+  
+   #primary:has(#post-9004111231300919) .gfield--type-checkbox .gfield_label_before_complex {
+  margin-top:10px;
+  }
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+   #primary:has(#post-9004111231300919) .save-and-continue-song {
+      display: block;
+      text-align: center;
+      margin-left: auto;
+       margin-top:-9px;
+  }
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+  
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .gfield_repeater_buttons {
+    padding-top: 0px;
+       margin-top:-20px;
+  }
+   #primary:has(#post-9004111231300919) .gfield_repeater_wrapper li{
+    margin-top:-11px !important;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper{
+    margin-bottom:0px ;
+  }
+  #primary:has(#post-9004111231300919) .ginput_container_text input {
+        height: 37px;
+      border: 1px solid #D9D9D9;
+      border-radius: 5px;
+      color: #646464;
+      background: transparent;
+      padding: 8px;
+      font-size: 14px;
+      font-weight: 400;
+  }
+   #primary:has(#post-9004111231300919) .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+    padding-top: 16px;
+      width: fit-content;
+      margin-left: auto;
+      font-size: 14px;
+      color: black;
+      font-weight: 400;
+      border-top: 1px solid #D6D9DD;
+      width: 100%;
+      text-align: right;
+      margin-top: 16px;
+  }
+  
+  
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .save-and-continue {
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  margin-top:16px;
+      margin-left: auto;
+    display: flex;
+  }
+  
+   #primary:has(#post-9004111231300919) input[type='checkbox'] + label::before{
+       width: 15px !important;
+      height: 15px !important;
+      min-height: 15px !important;
+      background-color: transparent;
+      border: 1px solid #999999;
+  }
+   #primary:has(#post-9004111231300919) .ginput_container_checkbox .gfield_checkbox li{
+       margin-bottom:-11px;
+  }
+  #__lpform_input_12_1_icon{
+      display:none;
+  }
+  @media (max-width:435px){
+      #primary:has(#post-9004111231300919) {
+      padding: 0 6px;
+      }
+   #primary:has(#post-9004111231300919) .ginput_container_textarea textarea {
+    height: 200px;
+  }
+      
+  #primary:has(#post-9004111231300919)  .gform_heading h3.gform_title {
+    font-size: 32px !important;
+    font-weight: 700;
+    line-height: 37px !important;
+    margin: -16px 0px 24px 0px !important;
+  }
+   #primary:has(#post-9004111231300919) .gform_heading h3.gform_title {
+    font-size: 32px;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+    margin-left: 0;
+  }
+  #primary:has(#post-9004111231300919)  .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+      position:relative;
+  }
+   #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .save-and-continue {
+    width: 100%;
+    text-align: center;
+    display:block;
+  }
+      #primary:has(#post-9004111231300919) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+  
+      text-align: left;
+  
+  }
+  #primary:has(#post-9004111231300919) .save-and-continue-song {
+      display: inline;
+      text-align: left;
+      margin-left: auto;
+      width: 100%;
+      text-align: center;
+  }
+  
+  } */
+
+
+
+
+
+
+
+
+
+  /* /// ****** 
+ * BuddyBoss Song Contest Page***** /////// */
+
+ #primary:has(.save-and-continue-song) {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0px auto;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .gfield_required {
+      color: black !important;
+      margin-left: 3px;
+  }
+   #primary:has(.save-and-continue-song) .cartflows-primary{
+    background:none;
+   padding:0px;
+  }
+   #primary:has(.save-and-continue-song) .gform_heading h3.gform_title  {
+       font-size: 40px;
+    font-weight: 700;
+    line-height: 37px;
+  margin:40px 0px;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .gform_description{
+      display:none;
+  }
+  
+   #primary:has(.save-and-continue-song) .gfield_label.gform-field-label{
+    font-size: 14px;
+    color: black;
+    font-weight: 400;
+    line-height: 20px;
+  padding-top:0px;
+    margin-bottom: 0px;
+  }
+   #primary:has(.save-and-continue-song) .gfield_label.gform-field-label + div  select.gfield_select {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+   #primary:has(.save-and-continue-song) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container input {
+    height: 37px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+   #primary:has(.save-and-continue-song) .ginput_container_textarea textarea {
+  height:100px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    color: #646464;
+    background: transparent;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+   #primary:has(.save-and-continue-song) .field_sublabel_below  .gfield_repeater_wrapper fieldset.gfield_repeater_container  {
+   border:none;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper ul li.gfield  {
+  margin-bottom:24px;
+       margin-top:0px;
+       padding-right:0px;
+  }
+  
+   #primary:has(.save-and-continue-song) .gfield--type-checkbox .gfield_label_before_complex {
+  margin-top:10px;
+  }
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+   #primary:has(.save-and-continue-song) .save-and-continue-song {
+      display: block;
+      text-align: center;
+      margin-left: auto;
+       margin-top:-9px;
+  }
+  .gform_legacy_markup_wrapper .gfield_required {
+   color:black !important;
+    margin-left: 3px;
+  }
+  
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .gfield_repeater_buttons {
+    padding-top: 0px;
+       margin-top:-20px;
+  }
+   #primary:has(.save-and-continue-song) .gfield_repeater_wrapper li{
+    margin-top:-11px !important;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper{
+    margin-bottom:0px ;
+  }
+  #primary:has(.save-and-continue-song) .ginput_container_text input {
+        height: 37px;
+      border: 1px solid #D9D9D9;
+      border-radius: 5px;
+      color: #646464;
+      background: transparent;
+      padding: 8px;
+      font-size: 14px;
+      font-weight: 400;
+  }
+   #primary:has(.save-and-continue-song) .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+    padding-top: 16px;
+      width: fit-content;
+      margin-left: auto;
+      font-size: 14px;
+      color: black;
+      font-weight: 400;
+      border-top: 1px solid #D6D9DD;
+      width: 100%;
+      text-align: right;
+      margin-top: 16px;
+  }
+  
+  
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .save-and-continue {
+    padding: 12px 16px;
+    height: auto;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    background: #C4574E;
+    margin-bottom: 0px;
+  margin-top:16px;
+      margin-left: auto;
+    display: flex;
+  }
+  
+   #primary:has(.save-and-continue-song) input[type='checkbox'] + label::before{
+       width: 15px !important;
+      height: 15px !important;
+      min-height: 15px !important;
+      background-color: transparent;
+      border: 1px solid #999999;
+  }
+   #primary:has(.save-and-continue-song) .ginput_container_checkbox .gfield_checkbox li{
+       margin-bottom:-11px;
+  }
+  #__lpform_input_12_1_icon{
+      display:none;
+  }
+  @media (max-width:435px){
+      #primary:has(.save-and-continue-song) {
+      padding: 0 6px;
+      }
+   #primary:has(.save-and-continue-song) .ginput_container_textarea textarea {
+    height: 200px;
+  }
+      
+  #primary:has(.save-and-continue-song)  .gform_heading h3.gform_title {
+    font-size: 32px !important;
+    font-weight: 700;
+    line-height: 37px !important;
+    margin: -16px 0px 24px 0px !important;
+  }
+   #primary:has(.save-and-continue-song) .gform_heading h3.gform_title {
+    font-size: 32px;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+    margin-left: 0;
+  }
+  #primary:has(.save-and-continue-song)  .gfield_repeater_items .gfield_repeater_item .gfield_repeater_buttons button{
+      position:relative;
+  }
+   #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .save-and-continue {
+    width: 100%;
+    text-align: center;
+    display:block;
+  }
+      #primary:has(.save-and-continue-song) .gform_legacy_markup_wrapper .field_description_below .gfield_description {
+  
+      text-align: left;
+  
+  }
+  #primary:has(.save-and-continue-song) .save-and-continue-song {
+      display: inline;
+      text-align: left;
+      margin-left: auto;
+      width: 100%;
+      text-align: center;
+  }
+  
+  }
